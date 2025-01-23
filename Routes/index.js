@@ -7,6 +7,7 @@ router.get("/", (req, res) => {
     //#swagger.tags=["Hello World!"]
     res.send("Welcome to the General Autorities Information page!")
 });
-//router.use();
+//router.use("/prophets", require("./prophets"));
+//route.use("/apostles", require("./apostles"));
 
 module.exports = router;
