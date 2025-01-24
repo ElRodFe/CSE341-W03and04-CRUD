@@ -1,0 +1,90 @@
+[
+    {
+        "firstName": "Jeffrey",
+        "lastName": "R. Holland",
+        "ordained": "June 23, 1994",
+        "birthday": "December 3, 1940",
+        "studies":"Philosophy",
+        "wifeName": "Patricia Terry"
+    },
+    {
+        "firstName": "Dieter",
+        "lastName": "F. Utchdorf",
+        "ordained": "October 2, 2004",
+        "birthday": "November 6, 1940",
+        "studies":"Engineering",
+        "wifeName": "Harriet Reich"
+    },
+    {
+        "firstName": "David",
+        "lastName": "A. Bednar",
+        "ordained": "October 7, 2004",
+        "birthday": "June 15, 1952",
+        "studies":"Organizational Behavior",
+        "wifeName": "Susan Kae Robinson"
+    },
+    {
+        "firstName": "Quentin",
+        "lastName": "L. Cook",
+        "ordained": "October 6, 2007",
+        "birthday": "September 8, 1940",
+        "studies":"Political Cience - Doctor of Jurisprudence",
+        "wifeName": "Mary Gaddie"
+    },
+    {
+        "firstName": "D. Todd",
+        "lastName": "Christofferson",
+        "ordained": "April 5, 2008",
+        "birthday": "January 24, 1945",
+        "studies":"Laws",
+        "wifeName": "Katherine Jacob"
+    },
+    {
+        "firstName": "Neil L.",
+        "lastName": "Andersem",
+        "ordained": "April 4, 2009",
+        "birthday": "August 9, 1951",
+        "studies":"Business Administration",
+        "wifeName": "Kathy Williams"
+    },
+    {
+        "firstName": "Ronald A.",
+        "lastName": "Rasband",
+        "ordained": "October 3, 2015",
+        "birthday": "Feburary 6, 1951",
+        "studies":"Bussiness and Commerce",
+        "wifeName": "Melanie Twitchell"
+    },
+    {
+        "firstName": "Gary E.",
+        "lastName": "Stevenson",
+        "ordained": "October 3, 2015",
+        "birthday": "August 6, 1955",
+        "studies":"Bussiness Administration",
+        "wifeName": "Lesa J. Higley"
+    },
+    {
+        "firstName": "Dale G",
+        "lastName": "Renlund",
+        "ordained": "October 3, 2015",
+        "birthday": "November 13, 1952",
+        "studies":"B.A and M.D degrees",
+        "wifeName": "Ruth Lybbert"
+    },
+    {
+        "firstName": "Gerrit W.",
+        "lastName": "Gong",
+        "ordained": "March 31, 2018",
+        "birthday": "December 23, 1953",
+        "studies":"Arts - Philosophy - International Relations",
+        "wifeName": "Susan Lindsay"
+    },
+    {
+        "firstName": "Ulisses",
+        "lastName": "Soares",
+        "ordained": "March 32, 2018",
+        "birthday": "October 2, 1958",
+        "studies":"Accounting and Economics",
+        "wifeName": "Rosana Fernandez"
+    }
+]
