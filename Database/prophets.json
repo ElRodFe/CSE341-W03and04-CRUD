@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Russell M.",
+        "lastName": "Nelson",
+        "birthday": "September 9, 1924",
+        "studies":"Surgery - Medial Science - Humane Letters",
+        "wifeName": "Dantzel White"
+    },
+    {
+        "firstName": "Thomas S.",
+        "lastName": "Monson",
+        "birthday": "August 21, 1927",
+        "studies":"United States Navy",
+        "wifeName": "Frances Beverly Johnson"
+    },
+    {
+        "firstName": "Gordon B.",
+        "lastName": "Hinckley",
+        "birthday": "June 23, 1910",
+        "studies":"English and Journalism",
+        "wifeName": "Marjorie Pay"
+    },
+    {
+        "firstName": "Howard W.",
+        "lastName": "Hunter",
+        "birthday": "November 14, 1907",
+        "studies":"Laws",
+        "wifeName": "Clara May Jeffs"
+    }
+]

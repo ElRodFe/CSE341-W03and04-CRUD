@@ -1,0 +1,43 @@
+### Get all prophets
+GET http://localhost:8080/prophets HTTP/1.1
+Content-Type: application/json
+
+###
+
+### Get a single prophet by ID
+GET http://localhost:8080/prophets/6794d724e707efb2c4ebda56 HTTP/1.1
+Content-Type: application/json
+
+###
+
+### Create a new prophet
+POST http://localhost:8080/prophets HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Ezra T.",
+    "lastName": "Venson",
+    "birthday": "August 21, 2035",
+    "studies":"Programming",
+    "wifeName": "Flora Taft"
+}
+
+###
+
+### Update an existing prophet
+PUT http://localhost:8080/prophets/6794de89d0621b38c5523c6f HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Ezra Taft",
+    "lastName": "Benson",
+    "birthday": "August 4, 1899",
+    "studies":"Agriculture",
+    "wifeName": "Flora Amussen"
+}
+
+###
+
+### Delete a prophet
+DELETE http://localhost:8080/prophets/679397bc14544c4e3effc98e HTTP/1.1
+Content-Type: application/json
