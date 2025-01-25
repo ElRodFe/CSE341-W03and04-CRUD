@@ -5,10 +5,10 @@
     "description": "CSE341 - W03-W04 Project - BYU Idaho - Elias Rodríguez",
     "version": "1.0.0"
   },
-  "host": "localhost:8080",
+  "host": "cse341-w03and04-crud.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
